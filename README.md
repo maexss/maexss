@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there, I'm Massimiliano 👋
 
 <!--
 **maexss/maexss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... surprise
+- 🌱 I’m currently learning Node.js and Fastify 
+
+---
+<a href="https://app.daily.dev/maexsss"><img src="https://api.daily.dev/devcards/7c6141421a814295a47a6b24261c0f4f.png?r=dca" width="300" alt="massimiliano c's Dev Card"/></a>
