@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js and Fastify 
 
 ---
-<a href="https://app.daily.dev/maexsss"><img src="https://api.daily.dev/devcards/7c6141421a814295a47a6b24261c0f4f.png?r=dca" width="300" alt="massimiliano c's Dev Card"/></a>
+<a href="https://app.daily.dev/maexsss"><img src="https://api.daily.dev/devcards/v2/cBm8IIhTzJOVmZCQOhnMe.png?r=xpv" width="356" alt="massimiliano c's Dev Card"/></a>
